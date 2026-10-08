@@ -1,26 +1,176 @@
-💫 About Me:
-# Hi there 👋, I'm Mansi Bhujade<br><br>### 🚀 Software Engineer | Python Developer | AI/ML Enthusiast | Data Analyst<br><br>I'm a Computer Science graduate passionate about building intelligent software solutions, automating workflows, and transforming data into meaningful insights. My experience spans AI/ML, Python development, software testing, geospatial data processing, REST APIs, and business intelligence.<br><br>---<br><br>## 👩‍💻 About Me<br><br>* 🎓 B.Tech in Computer Science & Engineering<br>* 💻 Passionate about Python Development, AI/ML, Automation Testing & Data Analytics<br>* 🌍 Former AI/ML & Geospatial Engineering Intern at **NRSC–ISRO**<br>* 🤖 Former Software QA & Automation Engineer Intern at **CBMO AI**<br>* 📊 Interested in Data Analytics, Power BI, SQL and Business Intelligence<br>* 📚 Always learning new technologies and solving real-world problems<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Programming Languages<br><br>* Python<br>* SQL<br>* HTML & CSS<br><br>### Libraries & Frameworks<br><br>* PyTorch<br>* Pandas<br>* NumPy<br>* Matplotlib<br>* Playwright<br>* Pytest<br>* REST APIs<br><br>### Databases<br><br>* MySQL<br>* SQL Server<br><br>### Data Analytics<br><br>* Power BI<br>* Excel<br>* SQL<br>* Power Query<br><br>### Tools<br><br>* Git<br>* GitHub<br>* Postman<br>* Jira<br>* QGIS<br>* VS Code<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 📊 Sales Performance Dashboard<br><br>* Interactive Power BI dashboard<br>* SQL-based data transformation<br>* KPI reports and business insights<br>* Revenue & customer analysis<br><br>---<br><br>### 🍕 Pizza Sales Analysis Dashboard<br><br>* Analysed 21K+ orders and 49K+ pizza sales<br>* Built DAX measures and KPI cards<br>* SQL + Power BI + Power Query<br><br>---<br><br>### 🌍 AI Super Resolution for Digital Elevation Models<br><br>* Built an ESRGAN deep learning model using PyTorch<br>* Enhanced DEM resolution from 30m to 10m<br>* Worked with GDAL, Rasterio and QGIS<br><br>---<br><br>### 🎓 Grade Maker<br><br>* Python desktop application<br>* Automated student assessment system<br>* Software Copyright registered with Government of India<br><br>---<br><br>## 🏆 Achievements<br><br>🥇 Gold Medal for securing an internship at NRSC–ISRO<br><br>📄 Published Research Paper on CSRF Token-Based Security<br><br>©️ Software Copyright Holder<br><br>🏅 Hackathon Finalist – Indo-Malaysian GDSC Hack<br><br>---<br><br>## 🌱 Currently Learning<br><br>* Advanced Python<br>* Machine Learning<br>* Data Engineering<br>* Cloud Computing<br>* System Design<br>* Linux<br><br>---<br><br>## 🤝 Let's Connect<br><br>💼 LinkedIn<br><br>📧 [mansibhujade1005@gmail.com](mailto:mansibhujade1005@gmail.com)<br><br>🌐 GitHub: github.com/computercrew12<br><br>---<br><br>### ⭐ Fun Fact<br><br>> "I enjoy turning complex problems into practical software solutions through clean code, automation, and data-driven thinking."<br>
+# Hi there 👋, I'm Mansi Bhujade
 
+### 📊 Junior Data Analyst | Python | SQL | Power BI | Machine Learning
 
- 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mansi.bhujade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mansi-bhujade-b1b42a224) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansibhujade1005@gmail.com) 
+I'm a Computer Science graduate passionate about **Data Analytics, Python, SQL, Business Intelligence, and Machine Learning**. I enjoy working with real-world datasets, cleaning and analyzing data, identifying trends and patterns, and transforming data into meaningful business insights through dashboards and visualizations.
 
- 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=computercrew12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=computercrew12&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=computercrew12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently, I am working as a **Data Analyst & AI Engineer Intern at Acube AI**, where I work on data analysis, validation, and data-driven solutions.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=computercrew12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👩‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=computercrew12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 🎓 B.Tech in Computer Science & Engineering
+* 📊 Data Analyst & AI Engineer Intern at **Acube AI**
+* 🐍 Strong interest in Python-based data analysis
+* 🧮 Experience with **Pandas, NumPy, EDA and data visualization**
+* 🗄️ Experience writing **SQL queries** for data analysis
+* 📈 Hands-on experience building **Power BI dashboards**
+* 📊 Interested in statistics, machine learning and predictive analytics
+* 🔍 Passionate about data cleaning, validation and finding actionable insights
+* 🚀 Open to **Junior Data Analyst / Data Analyst / Python Data Analyst** opportunities
 
+---
+
+# 🛠️ Technical Skills
+
+### 🐍 Programming & Data Analysis
+
+* Python
+* Pandas
+* NumPy
+* SciPy
+* Matplotlib
+* Exploratory Data Analysis (EDA)
+* Data Cleaning
+* Data Validation
+* Data Visualization
+
+### 🗄️ SQL & Databases
+
+* SQL
+* MySQL
+* Microsoft SQL Server
+* SQL Queries
+* Joins
+* Aggregations
+* Subqueries
+* Data Filtering & Transformation
+
+### 📊 Business Intelligence
+
+* Power BI
+* Power Query
+* DAX
+* KPI Dashboards
+* Data Visualization
+* Business Reporting
+* Interactive Dashboards
+
+### 🤖 Machine Learning
+
+* Machine Learning Fundamentals
+* Regression
+* Classification
+* Clustering
+* Predictive Analytics
+* Model Evaluation
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
+* Postman
+* Jira
+* Excel
+* QGIS
+
+---
+
+# 🚀 Featured Data Analytics Projects
+
+## 📊 Sales Performance Dashboard
+
+**Power BI | SQL | Power Query | DAX**
+
+* Built an interactive **Power BI dashboard** for analyzing sales performance.
+* Created KPI reports to monitor business performance and revenue.
+* Used SQL for data extraction and transformation.
+* Analyzed customer and revenue trends to generate business insights.
+* Created interactive visualizations for easier decision-making.
+
+---
+
+## 🍕 Pizza Sales Analysis
+
+**SQL | Power BI | Power Query | DAX**
+
+* Analyzed **21K+ orders and 49K+ pizza sales** to identify business trends.
+* Built interactive Power BI dashboards for sales performance analysis.
+* Created DAX measures and KPI cards for business metrics.
+* Used SQL for data querying and analysis.
+* Analyzed revenue, order volume, product performance and customer trends.
+* Used Power Query for data transformation and preparation.
+
+---
+
+## 📊 Arket Dashboard
+
+**Power BI | Power Query | DAX | Data Analysis**
+
+* Developed an interactive Power BI dashboard for business data analysis.
+* Performed data cleaning and transformation using Power Query.
+* Created KPIs and visualizations to identify important trends.
+* Designed reports to make business information easier to understand.
+* Focused on presenting data-driven insights through interactive dashboards.
+
+---
+
+## 📊 Suruchi Dashboard
+
+**Power BI | Power Query | DAX | Data Visualization**
+
+* Developed an interactive Power BI dashboard for analyzing business data.
+* Transformed and prepared datasets using Power Query.
+* Created calculated measures and KPI visualizations.
+* Identified trends and patterns through data visualization.
+* Designed a user-friendly dashboard for reporting and analysis.
+
+---
+
+## 🌍 AI Super Resolution for Digital Elevation Models
+
+**Python | PyTorch | NumPy | Rasterio | GDAL | QGIS**
+
+* Built an **ESRGAN-based deep learning model** using PyTorch.
+* Worked with large geospatial raster datasets.
+* Enhanced DEM resolution from **30m to 10m**.
+* Used Python-based data processing techniques for geospatial analysis.
+* Performed data preparation, processing and visualization using Rasterio, GDAL and QGIS.
+
+---
+
+## 🎓 Grade Maker
+
+**Python | Data Processing | Desktop Application**
+
+* Developed an automated student assessment application.
+* Managed student performance data including tests, assignments and attendance.
+* Automated calculation and organization of academic performance data.
+* Software Copyright registered with the Government of India.
+
+---
+
+# 📈 What I Can Do
+
+```text
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Data Validation
+      ↓
+Exploratory Data Analysis
+      ↓
+SQL Analysis
+      ↓
+Data Visualization
+      ↓
+Dashboard Development
+      ↓
+Business Insights
 ---
 [![](https://komarev.com/ghpvc/?username=computercrew12&icon=4&color=0)](https://visitcount.itsvg.in)
 
